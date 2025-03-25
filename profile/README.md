@@ -1,4 +1,4 @@
-# StockRyse 📈
+![StockRyse Logo](https://raw.githubusercontent.com/StockRyse/.github/refs/heads/main/logo-no-background.png)
 
 ## 🚀 Project Overview
 
