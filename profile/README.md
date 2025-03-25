@@ -80,7 +80,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-If a solid enough improvement is merged, it'll be deployed to [the actual site](https://stockryse.com)
+If a solid enough improvement is merged, it'll be deployed to [the actual site](https://stockryse.com)!
 
 ## 📄 License
 
@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ryan Polasky - [ryanpolasky@hotmail.com](mailto:ryanpolasky@hotmail.com)
 
-Project Link: [https://github.com/StockRyse](https://github.com/StockRyse)
+Project Link - [https://github.com/StockRyse](https://github.com/StockRyse)
 
 ---
 
