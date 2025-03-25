@@ -1,0 +1,2 @@
+# .github
+Stocks for Dummies!
